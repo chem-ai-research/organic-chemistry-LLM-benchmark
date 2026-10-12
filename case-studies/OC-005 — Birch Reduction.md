@@ -9,6 +9,7 @@
 ## Challenge
 
 Predict the major product from the following substrate and conditions:
+## ![Birch reduction reaction](../OC-005-Birch-reduction.png)
 
 - **Starting material:** 2-(Hex-3-yn-1-yl)benzoic acid
 - **Reagents/conditions:** 1. Na, liquid NH₃, EtOH; 2. H₃O⁺
