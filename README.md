@@ -1,4 +1,4 @@
-# organic-chemistry-LLM-benchmark
+# Organic-chemistry-LLM-benchmark
 Expert-curated organic chemistry benchmarks for evaluating large language model reasoning and scientific accuracy.
 # ChemAIResearch — Organic Chemistry LLM Benchmark
 
