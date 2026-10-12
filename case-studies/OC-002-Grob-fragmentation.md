@@ -9,7 +9,7 @@
 ## Challenge
 
 Predict the major product from the following substrate and conditions:
-![Grob fragmentation reaction](../OC-002-Grob-fragmentation.png)
+## ![Grob fragmentation reaction](../OC-002-Grob-fragmentation.png)
 - **Starting material:** (1S,4aS,8aR)-4a-hydroxydecahydronaphthalen-1-yl 4-methylbenzenesulfonate
 - **Reagents/conditions:** KH, THF
 - **Expected product:** (E)-cyclodec-5-en-1-one
