@@ -4,7 +4,7 @@
 **Topic:** Birch reduction  
 **Difficulty:** 4/5  
 **Evaluation sample:** 5 model responses  
-**Status:** Case study prepared from the benchmark record; chemistry and citation should receive a final independent check before commercial use.
+**Status:** Case study prepared from the benchmark record.
 
 ## Challenge
 
@@ -55,4 +55,3 @@ Full credit requires the correct product to reflect both transformations: Birch 
 
 Baguley, P. A.; Walton, J. C. *J. Chem. Soc., Perkin Trans. 1* (1998), 2073–2082. DOI: [10.1039/A802024H](https://doi.org/10.1039/A802024H).
 
-**Reference note:** Verify that the cited paper directly supports the exact substrate and mechanistic/regiochemical claims before external or commercial use.
