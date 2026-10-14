@@ -4,7 +4,7 @@
 **Topic:** Grob fragmentation  
 **Difficulty:** 5/5  
 **Evaluation sample:** 5 model responses  
-**Status:** Case study prepared from the benchmark record; chemistry and citation should receive a final independent check before commercial use.
+**Status:** Case study prepared from the benchmark record.
 
 ## Challenge
 
@@ -53,5 +53,3 @@ A response should receive full credit only if it identifies the ring-opened enon
 ## Reference recorded in the benchmark
 
 Karnik, A. V.; Hasan, M. “Conformations of cyclic, fused and bridged ring molecules,” in *Stereochemistry* (2021), section on Grob's fragmentation.
-
-**Reference note:** Verify the full bibliographic details and the exact mechanistic description against the source before external or commercial use.
