@@ -59,6 +59,16 @@ Initial pilot testing has revealed cases in which multiple language models fail 
 
 These observations motivate a more systematic investigation of chemistry-specific reasoning failures. Pilot results should not be interpreted as general performance rankings across models.
 
+## Benchmark Sample
+
+A representative sample of the Organic Chemistry LLM Benchmark is available for review.
+
+The sample includes expert-validated organic chemistry questions, gold-standard explanations, model evaluation records, and error taxonomy entries designed to assess the accuracy and reliability of large language models in organic chemistry.
+
+**[View the Benchmark Sample](data/Benchmark_sample.xlsx)**
+
+The benchmark focuses on identifying errors in reaction prediction, mechanistic reasoning, and interpretation of organic chemistry transformations.
+
 ## About
 
 ChemAIResearch is an independent project focused on expert-driven chemistry AI evaluation, benchmark development, and scientific reasoning assessment.
