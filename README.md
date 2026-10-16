@@ -10,6 +10,17 @@ This project explores how large language models handle organic chemistry problem
 
 The goal is to develop structured, expert-reviewed evaluation datasets that assess not only whether a model predicts the correct product, but also whether its chemical reasoning is sound.
 
+## Services
+
+I provide expert-led evaluation and quality assessment of large language models (LLMs) in organic chemistry.
+
+- **Benchmark Development:** Develop failure-revealing organic chemistry benchmarks with expert-validated answers, mechanistic explanations, and targeted tests of LLM reasoning.
+- **LLM Evaluation:** Test and compare model performance on organic chemistry reasoning, reaction prediction, and mechanistic problems.
+- **Error Analysis:** Identify and classify errors in chemical reasoning, predicted products, and reaction mechanisms.
+- **Expert Validation:** Review model outputs for scientific accuracy, mechanistic consistency, and chemical validity.
+
+My work combines PhD-level organic chemistry expertise with systematic, evidence-based evaluation to help AI teams assess and improve chemistry-specific model reliability.
+
 ## Project Objectives
 
 - Develop challenging organic chemistry evaluation problems.
