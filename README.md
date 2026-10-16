@@ -70,6 +70,17 @@ Initial pilot testing has revealed cases in which multiple language models fail 
 
 These observations motivate a more systematic investigation of chemistry-specific reasoning failures. Pilot results should not be interpreted as general performance rankings across models.
 
+## Applications / Potential Use Cases
+
+My benchmark and evaluation services can support AI teams in:
+
+- **Model Benchmarking:** Compare LLMs on organic chemistry reasoning, reaction prediction, and mechanistic problem-solving.
+- **Failure Mode Identification:** Detect recurring errors in chemical reasoning, product prediction, and reaction mechanisms.
+- **Model Development:** Generate expert-validated evaluation data to support model improvement and targeted testing.
+- **Quality Assurance:** Assess scientific accuracy, chemical validity, and consistency of model-generated answers.
+
+These evaluations can help AI developers identify capability gaps and assess the reliability of LLMs in specialized chemistry tasks.
+
 ## Benchmark Sample
 
 A representative sample of the Organic Chemistry LLM Benchmark is available for review.
